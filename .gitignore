@@ -1,2 +1,4 @@
 *.bak
 .vscode/launch.json
+
+ConnSettings.json
